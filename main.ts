@@ -1,4 +1,5 @@
 // makefun-coin-promo-01 — "Wanted Builders" ($WANTED) on pump.fun.
+// Mint: 6pzzDDGVZzeoEzgLdW5Xus4kbnYYxnJXtTZNK4nwSNwp
 // The coin itself is the entry: this program only hands the house the
 // launch receipt. It reads LAUNCH.json (the coin's mint and the signature
 // of the transaction that created it), checks both values are present and
